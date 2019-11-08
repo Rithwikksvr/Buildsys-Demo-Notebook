@@ -1,0 +1,1 @@
+{"appliance_params": {"fridge": {"mean": 30.290277777777778, "std": 51.305648097363665}, "air conditioner": {"mean": 113.47260101010102, "std": 310.6903028331394}}, "sequence_length": 99, "mains_mean": 1000, "mains_std": 600}
